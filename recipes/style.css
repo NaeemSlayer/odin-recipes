@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  color: black;
+  background-color: blanchedalmond;
+}
+
+h1 {
+  color: black;
+  background-color: green;
+  text-align: center;
+  font-size: xxx-large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul, li, a {
+  background-color: aliceblue;
+  font-size: x-large;
+}
+
+img {
+  height: 200px;
+}
